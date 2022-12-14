@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: 1px solid #E8E8E8;
+}
+.dev{
+   font-size: 18px;
+   font-weight: bold;
+}
+.sub{
+    border:none;
+    outline:none;
+    background-color: white;
+    font-weight: bold;
+    font-size:18px;
+    color:skyblue;
+
+}
+.sub:hover{
+    cursor: pointer;
+    background-color: red;
+    color:black;
+    border-radius: 10px;
+}

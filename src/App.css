@@ -1,0 +1,18 @@
+.App{
+  padding-left:10px;
+  padding-top:25px;
+  padding-right:15px;
+  padding-bottom:10px;
+}
+
+.first{
+  margin-top: 15px;
+  box-shadow: 15px 15px 10px 10px whitesmoke;
+  height:90vh;
+  border-top-left-radius:10px ;
+  border-top-right-radius:10px ;
+  border-left: 1px solid #E8E8E8;
+  border-right: 1px solid #E8E8E8;
+  border-top: 1px solid #E8E8E8;
+  border-bottom: 1px solid #E8E8E8;
+}
